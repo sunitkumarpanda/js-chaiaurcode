@@ -12,6 +12,19 @@ console.log("Sunit")
 let name = "sunit"
 let age = 19
 let isLoggedIn = true
-
+let state;
 
 // number => 2 to power of 53
+// bigint
+// string => ""
+// boolean => true/false
+// null => stand alone vlaue
+// undefined =>
+// symbol => unique
+
+
+// object
+
+console.log(typeof undefined); // undefined
+console.log(typeof null); // object
+
